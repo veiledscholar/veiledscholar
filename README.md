@@ -2,7 +2,7 @@
   <img src=https://i.postimg.cc/wj2qzctF/gh-banner-yay.png>
 </p>
 
-[stop using rentry (gdocs ver.)](https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?usp=drivesdk) • [stop using rentry (fluffle ver.)](https://fluffle.cc/dontsupportrentry) • [pt skin stealer](https://tiffanywhenicatchu.straw.page) • [click 2x](https://arab.org/click-to-help/palestine/)
+[stop using rentry (gdocs ver.)](https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?usp=drivesdk) • [stop using rentry (fluffle ver.)](https://fluffle.cc/dontsupportrentry) • [click 2x](https://arab.org/click-to-help/palestine/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xcr1s1&color=0c4832&label=chisel_mirrors"/>
