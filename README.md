@@ -11,7 +11,8 @@
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oxbcwo3zvnaryjlq6e3vuvus54&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
-  </a>
+      </a>&nbsp;&nbsp;&nbsp;&nbsp;
+artists i like: chogakusei, stray kids, glass animals, ado, marina & the diamonds
 </p>
 
 <p align=center>
