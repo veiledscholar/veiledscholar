@@ -1,17 +1,9 @@
-<p align=center”>
-  <img src=https://i.postimg.cc/wj2qzctF/gh-banner-yay.png>
-</p>
+profile is being reworked
 
 [stop using rentry (gdocs ver.)](https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?usp=drivesdk) • [stop using rentry (fluffle ver.)](https://fluffle.cc/dontsupportrentry) • [click 2x](https://arab.org/click-to-help/palestine/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xcr1s1&color=0c4832&label=chisel_mirrors"/>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31oxbcwo3zvnaryjlq6e3vuvus54&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
-  </a>
 </p>
 
 <p align=center>
